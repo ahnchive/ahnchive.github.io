@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
- ![[http://ahnchive.github.io/files/cv.pdf]]
+ [cv](http://ahnchive.github.io/files/cv.pdf)
