@@ -12,5 +12,8 @@ redirect_from:
 
 <!-- [cv](http://ahnchive.github.io/files/cv.pdf){width=100% height=400} -->
 
-<iframe src="http://ahnchive.github.io/files/cv.pdf" width="100% height=100%">
-</iframe>
+
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url=http://ahnchive.github.io/files/cv.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
