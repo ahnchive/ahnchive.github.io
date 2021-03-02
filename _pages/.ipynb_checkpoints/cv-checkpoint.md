@@ -20,6 +20,6 @@ redirect_from:
  -->
  
  
-<body style="width:100%; height:600px; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=http://ahnchive.github.io/files/cv.pdf &embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+<body style="width:100%; height:100vh; margin:0;">
+    <iframe src="https://docs.google.com/gview?url=http://ahnchive.github.io/files/cv.pdf &embedded=true" style="width:100%; height:100vh;" frameborder="0"></iframe>
 </body>
