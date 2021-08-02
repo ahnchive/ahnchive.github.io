@@ -58,7 +58,7 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: #cc6600;
+    color: #0000ff;
 }
 
 .danger {
@@ -91,7 +91,7 @@ h1, h2, h3, h4 {
     min-height:40px;
     padding-left:20px;
     padding-right:20px;
-    background-color:#fafafa;
+    background-color:#802b00;
     background-image:-moz-linear-gradient(top, #edffff, #e3ffff);
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#edffff), to(#f2f2f2));
     background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
