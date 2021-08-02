@@ -18,7 +18,7 @@ I'm broadly interested in understanding how humans see the world. How can we obt
 
     <div class="row-fluid">
         <div class="span5">
-            Seoyoung Ahn<br/>
+            seoyoung ahn<br/>
             Email: seoyoung.ahn@stonybrook.edu<br/>
         </div>
 
@@ -34,8 +34,8 @@ I'm broadly interested in understanding how humans see the world. How can we obt
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/ahnchive">GitHub</a></li>
-          <li><a href="https://twitter.com/seoyahn">Twitter (@seoyahn)</a></li>
+          <li><a href="https://github.com/ahnchive">github</a></li>
+          <li><a href="https://twitter.com/seoyahn">twitter (@seoyahn)</a></li>
       </ul>
   </div>
 </div>
