@@ -40,7 +40,7 @@ h1, h2, h3, h4 {
 }
 
 .navbar .brand, .navbar .nav > li > a:hover {
-    color: red !important;
+    color: white;
 }
 
 
@@ -49,9 +49,10 @@ a {
 }
 
 a:hover {
-    color: #000000;
+    color: black;
     background-color: #00ff00;
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-color: red;
 }
 
 
