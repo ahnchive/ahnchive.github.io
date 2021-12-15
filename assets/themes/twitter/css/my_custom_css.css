@@ -3,6 +3,33 @@ body {
   background-color: #873e23;
 }
 
+
+h1, h2, h3, h4 {
+    color: #00ff00;
+}
+
+
+.navbar-inner {
+    min-height:40px;
+    padding-left:20px;
+    padding-right:20px;
+    color: #00ff00;
+    background-color: #000000;
+    background-image:-moz-linear-gradient(top, #000000, #000000);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#000000));
+    background-image:-webkit-linear-gradient(top, #000000, #000000);
+    background-image:-o-linear-gradient(top, #000000, #000000);
+    background-image:linear-gradient(to bottom, #000000, #000000);
+    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
+    border:1px solid #edffff;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+    -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
+}
+
 code {
   padding: 0;
   font-size: 90%;
@@ -62,10 +89,6 @@ td.right {
 }
 
 
-h1, h2, h3, h4 {
-    color: #0800ff;
-}
-
 .danger {
     background-color: #ffdddd;
     border-left: 6px solid #f44336;
@@ -92,23 +115,5 @@ h1, h2, h3, h4 {
 }
 
 
-.navbar-inner {
-    min-height:40px;
-    padding-left:20px;
-    padding-right:20px;
-    background-color: black;
-    background-image:-moz-linear-gradient(top, #edffff, #e3ffff);
-    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#edffff), to(#f2f2f2));
-    background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
-    background-image:-o-linear-gradient(top, #edffff, #e3ffff);
-    background-image:linear-gradient(to bottom, #edffff, #e3ffff);
-    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
-    border:1px solid #edffff;
-    -webkit-border-radius:4px;
-    -moz-border-radius:4px;
-    border-radius:4px;
-    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
-    -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
-    box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
-}
+
 
