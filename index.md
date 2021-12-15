@@ -12,9 +12,6 @@ I'm broadly interested in understanding how humans see the world. How can we obt
 <!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/> -->
 
 
----
-
-
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
