@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: seoyoung ahn
-description: seoyoung ahn, phd student at stony brook university. 
-keywords: vision, attention, reading, eye-movements, computational modeling
+description: Academic Website for Seoyoung (Young) Ahn, PhD student at Stony Brook University 
+keywords: Seoyoung Ahn, Vision, Eye Tracking, Deep Learning
 ---
 
 <img src="{{ BASE_PATH }}/assets/drawing.jpg">
