@@ -41,7 +41,7 @@ h1, h2, h3, h4 {
 
 .navbar .brand > li > a:focus,
 .navbar .brand > li > a:hover {
-  color: black;
+  color: white;
   text-decoration: underline;
   text-decoration-color: red;
   background-color: transparent;
