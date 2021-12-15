@@ -47,60 +47,10 @@ h1, h2, h3, h4 {
   text-shadow: 0 0px 0 #ffffff;
 }
 
-.navbar .brand > li > a:focus,
-.navbar .brand > li > a:hover {
-  color: white;
-  text-decoration: underline;
-  text-decoration-color: red;
-  background-color: transparent;
+.navbar .brand, .navbar .nav > li > a:hover {
+    color: red !important;
 }
 
-/* 
-.navbar .nav > li > a:focus,
-.navbar .nav > li > a:hover {
-  color: white;
-  text-decoration: none;
-  background-color: transparent;
-}
-
-.navbar-text {
-  margin-bottom: 0;
-  line-height: 40px;
-  color: #00ff00;
-}
-
-
-.navbar-link {
-  color: #00ff00;
-}
-
-.navbar-link:hover {
-  color: #00ff00;
-} */
-
-/* 
-
-.navbar-inner {
-    min-height:40px;
-    padding-left:20px;
-    padding-right:20px;
-    background-color: #000000;
-    background-image:-moz-linear-gradient(top, #000000, #000000);
-    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#000000));
-    background-image:-webkit-linear-gradient(top, #000000, #000000);
-    background-image:-o-linear-gradient(top, #000000, #000000);
-    background-image:linear-gradient(to bottom, #000000, #000000);
-    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
-    border:1px solid #000000;
-    -webkit-border-radius:4px;
-    -moz-border-radius:4px;
-    border-radius:4px;
-    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
-    -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
-    box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
-}
-
- */
 
 a {
     color: #00ff00;
