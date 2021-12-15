@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: ahnchive
+title: Seoyoung Ahn
 description: seoyoung ahn, phd student at stony brook university. 
 keywords: vision, attention, reading, eye-movements, computational modeling
 ---
