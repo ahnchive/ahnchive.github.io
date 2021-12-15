@@ -28,6 +28,17 @@ h1, h2, h3, h4 {
     text-shadow: 0 0px 0 #ffffff;
 }
 
+.navbar .brand {
+  display: block;
+  float: left;
+  padding: 10px 20px 10px;
+  margin-left: -20px;
+  font-size: 20px;
+  font-weight: 200;
+  color: #00ff00;
+  text-shadow: 0 0px 0 #ffffff;
+}
+
 
 /* 
 .navbar .nav > li > a:focus,
