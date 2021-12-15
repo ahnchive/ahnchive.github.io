@@ -1,7 +1,7 @@
 ---
 layout: page
-title: research
-description: Seoyoung Ahn's research
+title: tutorials
+description: Seoyoung Ahn's Tutorials
 ---
 
 
