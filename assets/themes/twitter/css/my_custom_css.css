@@ -1,4 +1,5 @@
 body {
+  color: #e3e4fa;
   background-color: #873e23;
 }
 
@@ -62,7 +63,7 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: #e3e4fa;
+    color: #0800ff;
 }
 
 .danger {
