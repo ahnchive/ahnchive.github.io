@@ -28,14 +28,6 @@ h1, h2, h3, h4 {
     text-shadow: 0 0px 0 #ffffff;
 }
 
-.navbar .nav > li > a:focus,
-.navbar .nave > li > a:hover {
-  color: white;
-  text-decoration: none;
-  background-color: transparent;
-}
-
-
 .navbar .brand {
   display: block;
   float: left;
