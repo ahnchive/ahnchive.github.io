@@ -1,6 +1,5 @@
 ---
 layout: frontpage
-classes: wide
 title: seoyoung ahn
 description: Academic Website for Seoyoung (Young) Ahn, PhD student at Stony Brook University 
 keywords: Seoyoung Ahn, Vision, Eye Tracking, Deep Learning
