@@ -25,10 +25,10 @@ h1, h2, h3, h4 {
     float: none;
     padding: 10px 15px;
     text-decoration: none;
-    text-shadow: 0 0px 0 #ffffff;
+    text-shadow: none
 }
 
-.navbar .brand > li > a {
+.navbar .brand > {
   display: block;
   float: left;
   padding: 10px 20px 10px;
@@ -36,13 +36,20 @@ h1, h2, h3, h4 {
   font-size: 20px;
   font-weight: 200;
   color: #00ff00;
-  text-shadow: 0 0px 0 #ffffff;
+  text-shadow: none;
 }
 
 .navbar .brand, .navbar .nav > li > a:hover {
     color: white;
 }
 
+.navbar-link {
+  color: #00ff00;
+}
+
+.navbar-link:hover {
+  color: white;
+}
 
 a {
     color: #00ff00;
@@ -51,10 +58,7 @@ a {
 a:hover {
     color: black;
     background-color: #00ff00;
-    text-decoration: underline;
-    text-decoration-color: red;
 }
-
 
 
 code {
