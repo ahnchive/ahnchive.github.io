@@ -6,12 +6,13 @@ keywords: Seoyoung Ahn, Vision, Eye Tracking, Deep Learning
 ---
 
 <!-- ![main figure]({{ BASE_PATH }}/assets/drawing.jpg){:height="50%" width="50%"; style="float: left" } -->
-<img src="{{ BASE_PATH }}/assets/drawing.jpg" align="left" width="400px" style="margin-right: 20px; margin-bottom: 20px; margin-top: 10px"/>
+<!-- <img src="{{ BASE_PATH }}/assets/drawing.jpg" align="left" width="400px" style="margin-right: 20px; margin-bottom: 20px; margin-top: 10px"/> -->
+<!-- <br clear="left"/> -->
+<img src="{{ BASE_PATH }}/assets/drawing.jpg" style="margin-bottom: 10px; margin-top: 10px"/>
 
 I'm broadly interested in understanding how humans see the world. How can we obtain a stable but flexible representation of the visual environment? What cognitive/neural algorithms need to be implemented in the artificial vision system to see like humans?
 
 <!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/> -->
-&nbsp;
 &nbsp;
 
 <div class="container">
@@ -31,8 +32,6 @@ I'm broadly interested in understanding how humans see the world. How can we obt
     </div>
 </div>
 
-<br clear="left"/>
-&nbsp;
 
 <div class="navbar">
   <div class="navbar-inner">
