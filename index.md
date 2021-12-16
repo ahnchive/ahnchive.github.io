@@ -5,10 +5,8 @@ description: Academic Website for Seoyoung (Young) Ahn, PhD student at Stony Bro
 keywords: Seoyoung Ahn, Vision, Eye Tracking, Deep Learning
 ---
 
-![main figure]({{ BASE_PATH }}/assets/drawing.jpg){:.align-left height="36px" width="36px"}
+![main figure]({{ BASE_PATH }}/assets/drawing.jpg){:height="50%" width="50%"}
 I'm broadly interested in understanding how humans see the world. How can we obtain a stable but flexible representation of the visual environment? What cognitive/neural algorithms need to be implemented in the artificial vision system to see like humans?
-{:style="clear: left"}
-
 
 <!-- <img src="{{ BASE_PATH }}/assets/drawing.jpg"> -->
 
