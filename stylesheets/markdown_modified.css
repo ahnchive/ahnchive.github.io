@@ -4,16 +4,3 @@ ul,ol {
     margin: 0 0 0 35px;
 }
 
-a
-{
-  color: #602c94;
-  text-decoration: none;
-  background-color: transparent;
-}
-
-a:hover
-{
-  color: #602c94;
-  background: #94652c;
-}
-
