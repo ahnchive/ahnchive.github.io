@@ -40,6 +40,7 @@ I'm broadly interested in understanding how humans see the world. How can we obt
           <!-- <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li> -->
           <li><a href="https://github.com/ahnchive">github</a></li>
           <li><a href="https://twitter.com/seoyahn">twitter (@seoyahn)</a></li>
+          <li><a href="https://scholar.google.com/citations?user=FxF4Y1UAAAAJ&hl=en">google scholar</a></li>
       </ul>
   </div>
 </div>
