@@ -2,12 +2,18 @@ body {
   color: #e3e4fa;
   background-color: #873e23;
   font-size: 120%;
+  line-hight: 120%;
 }
 
 
 h1, h2, h3, h4 {
     color: #00ff00;
-    font-size: 200%;
+    font-size: 150%;
+    line-height: 150%;
+}
+
+.navbar .default {
+  height: 80px;
 }
 
 .navbar-inner {
@@ -28,7 +34,7 @@ h1, h2, h3, h4 {
     padding: 10px 15px;
     text-decoration: none;
     text-shadow: none;
-    font-size: 200%;
+    font-size: 150%;
 }
 
 .navbar .brand > {
@@ -39,7 +45,7 @@ h1, h2, h3, h4 {
   font-weight: 200;
   color: #00ff00;
   text-shadow: none;
-  font-size: 200%;
+  font-size: 150% !important;
 }
 
 .navbar .brand, .navbar .nav > li > a:hover {
