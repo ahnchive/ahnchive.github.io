@@ -21,8 +21,7 @@ keywords: Seoyoung Ahn, Vision, Eye Tracking, Deep Learning
 
     <div class="row-fluid">
         <div class="span5">
-            seoyoung ahn<br/>
-            email: seoyoung.ahn@stonybrook.edu<br/>
+            seoyoung.ahn@stonybrook.edu<br/>
         </div>
 
 <!--         <div class="span2">
