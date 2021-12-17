@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tutorials
+title: tutorial
 description: Seoyoung Ahn's Tutorials
 ---
 
