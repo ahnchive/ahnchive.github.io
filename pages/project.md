@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: project
 description: Seoyoung Ahn's research
 ---
 
