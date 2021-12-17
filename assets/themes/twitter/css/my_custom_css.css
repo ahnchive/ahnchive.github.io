@@ -13,16 +13,27 @@ h1, h2, h3, h4 {
 }
 
 
-.navbar .brand > a {
+.navbar .brand > li > a {
   display: block;
   float: left;
   padding: 10px 20px 10px;
   margin-left: -20px;
+  height: 30px;
+  font-size: 120%;
+  color: #00ff00;
+  text-decoration: none;
+  text-shadow: none;
 }
 
 .navbar .nav > li > a {
     float: none;
     padding: 10px 15px;
+    height: 30px;
+    font-size: 120%;
+    color: #00ff00;
+    text-decoration: none;
+    text-shadow: none;
+  
 }
 
 .navbar-inner {
@@ -36,13 +47,6 @@ h1, h2, h3, h4 {
     border: 1px solid black;
 }
 
-.navbar {
-  height: 30px;
-  font-size: 120%;
-  color: #00ff00 !important;
-  text-decoration: none;
-  text-shadow: none;
-}
 
 .navbar .brand, .navbar .nav > li > a:hover {
     color: white;
