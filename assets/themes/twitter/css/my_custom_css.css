@@ -13,14 +13,13 @@ h1, h2, h3, h4 {
 }
 
 
-.navbar .brand > li > a {
+.navbar .brand {
   display: block;
   float: left;
   padding: 10px 20px 10px;
   margin-left: -20px;
-  height: 30px;
-  font-size: 120%;
-  color: #00ff00;
+  font-size: 100% !important;
+  color: #00ff00 !important;
   text-decoration: none;
   text-shadow: none;
 }
@@ -28,8 +27,7 @@ h1, h2, h3, h4 {
 .navbar .nav > li > a {
     float: none;
     padding: 10px 15px;
-    height: 30px;
-    font-size: 120%;
+    font-size: 100%;
     color: #00ff00;
     text-decoration: none;
     text-shadow: none;
