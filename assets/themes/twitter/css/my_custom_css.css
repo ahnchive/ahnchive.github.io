@@ -18,20 +18,11 @@ h1, h2, h3, h4 {
   float: left;
   padding: 10px 20px 10px;
   margin-left: -20px;
-  font-weight: 200;
-  color: #00ff00 !important;
-  text-shadow: none;
-  font-size: 120% !important;
 }
 
 .navbar .nav > li > a {
-    height: 80px;
-    color: #00ff00;
     float: none;
     padding: 10px 15px;
-    text-decoration: none;
-    text-shadow: none;
-    font-size: 120%;
 }
 
 .navbar-inner {
@@ -47,6 +38,10 @@ h1, h2, h3, h4 {
 
 .navbar {
   height: 30px;
+  font-size: 120%;
+  color: #00ff00 !important;
+  text-decoration: none;
+  text-shadow: none;
 }
 
 .navbar .brand, .navbar .nav > li > a:hover {
