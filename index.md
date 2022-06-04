@@ -18,7 +18,7 @@ i'm broadly interested in understanding how humans can obtain stable but flexibl
 <!-- <div style="text-align: justify"> I'm broadly interested in understanding how humans can obtain a stable but flexible representation of the visual environment. I try to understand this question by building an artificial vision system that is more human-like! </div>
 &nbsp; -->
 
-<!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/ahn_CV.pdf)<br/> -->
+<!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/> -->
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
