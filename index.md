@@ -8,7 +8,7 @@ keywords: Seoyoung Ahn, Vision, Eye Tracking, Deep Learning
 <!-- ![main figure]({{ BASE_PATH }}/assets/drawing.jpg){:height="50%" width="50%"; style="float: left" } -->
 <!-- ![main figure]({{ BASE_PATH }}/assets/drawing.jpg){:height="100%"} -->
 
-<img src="{{ BASE_PATH }}/assets/drawing.jpg" align="center" width="1000px" style="margin-bottom: 20px; margin-top: 20px"/>
+<img src="{{ BASE_PATH }}/assets/drawing.jpg" align="center" width="500px" style="margin-bottom: 20px; margin-top: 20px"/>
 <!-- <br clear="left"/> -->
 <!-- <img src="{{ BASE_PATH }}/assets/drawing.jpg" style="margin-bottom: 10px; margin-top: 10px"/> -->
 
