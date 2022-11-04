@@ -35,7 +35,7 @@ keywords: Seoyoung Ahn, Vision, Attention, Eye Tracking, Deep Learning
 &nbsp;
 &nbsp;
 ### About
-I'm a phd student at [EyeCog lab](https://you.stonybrook.edu/zelinsky/who-we-are/) at Stony Brook University. I'm broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I try to understand this question by building an artificial vision system that is more human-like. You can find my [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf) (updated 11/04/2022)
+I'm a phd student at [EyeCog lab](https://you.stonybrook.edu/zelinsky/who-we-are/) at Stony Brook University. I'm broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I try to understand this question by building an artificial vision system that is more human-like. Please find my curriculum vitae [here]({{ BASE_PATH }}/assets/CV.pdf) (updated 11/04/2022)
 
 
 &nbsp;
