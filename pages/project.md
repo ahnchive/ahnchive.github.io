@@ -1,8 +1,9 @@
 ---
 layout: page
-title: The research projects that I'm currently working on:
-description: project
+title: project-list
+description: the research projects that I'm currently working on
 ---
+
 
 
 ## The role of top-down object reconstruction in object perception
