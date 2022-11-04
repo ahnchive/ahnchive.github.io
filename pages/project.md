@@ -19,14 +19,16 @@ Humans need to interact with objects, so evolution endowed us with a visual syst
 - Adeli H, Ahn S, Zelinsky G. A brain-inspired object-based attention network for multi-object recognition and visual reasoning. bioRxiv. 2022 (under review)
 - Adeli H, Ahn S, Zelinsky G. Recurrent attention models with object-centric capsule representation for multiobject recognition. arXiv preprint arXiv:2110.04954. 2021
 
-
+\
+\
 ## The effects of language on human visual perception 
 The visual experience is not the only source of learning for humans. We constantly read and listen about things around us, and we actively use this prior knowledge to perceive our visual surroundings. This project investigates how language affects human visual perception and attention control. We build neural networks that leverage both language and visual information and compare their performance with human behavioral and neural data under the same visual tasks. 
 
 ### Related Publications:
 - Ahn S, Zelinsky GJ, Lupyan G. Use of superordinate labels yields more robust and human-like visual representations in convolutional neural networks. Journal of vision. 2021
 
-
+\
+\
 ## Human attention modeling and prediction
 How humans allocate their spatial attention is a question having clear benefits to both computer and behavioral vision (e.g., the development of next-generation systems that could intelligently anticipate a user's needs or desires). This project attempts to reverse-engineer what visual features attract human spatial attention ("priority maps") and build the computional model to predict human eye-movements during various visual tasks. Interested in training your models to predict human attention? You can download the dataset here [COCO-Search18](https://sites.google.com/view/cocosearch/)) for categorical search and [COCO-Freeview](https://sites.google.com/view/cocosearch/coco-freeview?authuser=0) for freeview. 
 
@@ -44,7 +46,8 @@ How humans allocate their spatial attention is a question having clear benefits 
 - Yang Z, Huang L, Chen Y, Wei Z, Ahn S, Zelinsky G, Samaras D, Hoai M. Predicting goal-directed human attention using inverse reinforcement learning. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR). 2020
 - Zelinsky G, Yang Z, Huang L, Chen Y, Ahn S, Wei Z, Adeli H, Samaras D, Hoai M. Benchmarking gaze prediction for categorical visual search. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR Workshops). 2019
 
-
+\
+\
 ## Decoding your mind from eye movemements
 Can we decode someone's mental states just from their eye movements? This project attempt to implement deep learning or machin learning models to predict one's mental or cognitive states (e.g., task type, comprehension, engagement, mind wandering) from eye movements. 
 
