@@ -18,7 +18,7 @@ keywords: Seoyoung Ahn, Vision, Attention, Eye Tracking, Deep Learning
         </div>
         
         <div class="span5">
-            phD student<br/>
+            PhD student<br/>
             Stony Brook University, NY<br/>
             seoyoung.ahn@stonybrook.edu<br/><br/><br/>
 
@@ -35,14 +35,22 @@ keywords: Seoyoung Ahn, Vision, Attention, Eye Tracking, Deep Learning
 &nbsp;
 &nbsp;
 ### About
-I'm a phd student at [EyeCog lab](https://you.stonybrook.edu/zelinsky/who-we-are/) at Stony Brook University. I'm broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I try to understand this question by building an artificial vision system that is more human-like. Please find my curriculum vitae [here]({{ BASE_PATH }}/assets/CV.pdf) (updated 11/04/2022)
+I'm a PhD student at [EyeCog lab](https://you.stonybrook.edu/zelinsky/who-we-are/) at Stony Brook University. I'm broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I try to understand this question by building an artificial vision system that is more human-like. Please find my curriculum vitae [here]({{ BASE_PATH }}/assets/CV.pdf) (updated 11/04/2022)
 
 
 &nbsp;
 &nbsp;
 ### Recent News
 
+My second-year project "Use of superordinate labels yields more robust and human-like visual representations in convolutional neural networks" has been accepted at [Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2778207)!
 
+Gave a live talk at [VSS 2020](https://jov.arvojournals.org/article.aspx?articleid=2771677) on how hieararchical semantic structure of the training labels helps visual category learning in convolutional neural networks
+
+We published a large-scale eyetracking dataset for training deep learning models. See our project page: [COCO-Search18](https://sites.google.com/view/cocosearch/)
+
+My first-year project "Towards Predicting Reading Comprehension From Gaze Behavior" has been accepted at [ETRA 2020](https://dl.acm.org/doi/10.1145/3379156.3391335)
+
+Our team presented our real-time reading vs skimming detector at [ETRA 2019](https://dl.acm.org/doi/10.1145/3314111.3319916)
 
 
 <!-- <div style="text-align: justify"> I'm broadly interested in understanding how humans can obtain a stable but flexible representation of the visual environment. I try to understand this question by building an artificial vision system that is more human-like! </div>
