@@ -14,9 +14,11 @@ keywords: Seoyoung Ahn, Vision, Attention, Eye Tracking, Deep Learning
             phD student<br/>
             Stony Brook University, NY<br/>
             seoyoung.ahn@stonybrook.edu<br/><br/><br/>
-            <a href="https://github.com/ahnchive">github</a><br/>
-            <a href="https://twitter.com/seoyahn">twitter (@seoyahn)</a><br/>
+
             <a href="https://scholar.google.com/citations?user=FxF4Y1UAAAAJ&hl=en">google scholar</a><br/>
+            <a href="https://twitter.com/seoyahn">twitter (@seoyahn)</a><br/>
+            <a href="https://github.com/ahnchive">github</a><br/>
+            
         </div>
 
         <div class="span2">
