@@ -22,9 +22,13 @@ keywords: Seoyoung Ahn, Vision, Attention, Eye Tracking, Deep Learning
         </div>
 
         <div class="span2">
-        <a href="../assets/squirrel.png">
+<!--         <a href="../assets/squirrel.png">
             <img src="../assets/squirrel.png" align="center" width="400px" style="margin-bottom: 20px; margin-top: 20px"
-                  title="headshot" alt="headshot"/></a>
+                  title="headshot" alt="headshot"/></a> -->    
+        <p align="right">
+                      <img src="../assets/squirrel.png" width="400px" style="margin-bottom: 20px; margin-top: 20px"
+                  title="headshot" alt="headshot"/>
+        </p>
         </div>
     </div>
 </div>
