@@ -2,19 +2,21 @@
 layout: frontpage
 title: seoyoung ahn
 description: Homepage for Seoyoung (Young) Ahn, PhD student at Stony Brook University 
-keywords: Seoyoung Ahn, Vision, Eye Tracking, Deep Learning
+keywords: Seoyoung Ahn, Vision, Attention, Eye Tracking, Deep Learning
 ---
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Seoyoung Ahn"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            seoyoung.ahn@stonybrook.edu<br/>
-            <a href="https://github.com/ahnchive">github</a>
-            <a href="https://twitter.com/seoyahn">twitter (@seoyahn)</a>
-            <a href="https://scholar.google.com/citations?user=FxF4Y1UAAAAJ&hl=en">google scholar</a>
+            phD student<br/>
+            Stony Brook University, NY<br/>
+            seoyoung.ahn@stonybrook.edu<br/><br/><br/>
+            <a href="https://github.com/ahnchive">github</a><br/>
+            <a href="https://twitter.com/seoyahn">twitter (@seoyahn)</a><br/>
+            <a href="https://scholar.google.com/citations?user=FxF4Y1UAAAAJ&hl=en">google scholar</a><br/>
         </div>
 
         <div class="span2">
@@ -25,13 +27,14 @@ keywords: Seoyoung Ahn, Vision, Eye Tracking, Deep Learning
     </div>
 </div>
 
+&nbsp;
+&nbsp;
+### About
+I'm a phd student at [EyeCog lab](https://you.stonybrook.edu/zelinsky/who-we-are/) at Stony Brook University. I'm broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I try to understand this question by building an artificial vision system that is more human-like.
 
-## About
-I'm a phd student at Stony Brook University. I'm broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I try to understand this question by building an artificial vision system that is more human-like.
- 
-
-
-## Recent News
+&nbsp;
+&nbsp;
+### Recent News
 
 
 
