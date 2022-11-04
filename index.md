@@ -10,6 +10,13 @@ keywords: Seoyoung Ahn, Vision, Attention, Eye Tracking, Deep Learning
 <h4><a name="profile"></a>Seoyoung Ahn</h4>
 
     <div class="row-fluid">
+        
+        <div class="span2">
+        <a href="../assets/squirrel.png">
+            <img src="../assets/squirrel.png" align="center" width="400px" style="margin-bottom: 20px; margin-top: 20px"
+                  title="headshot" alt="headshot"/></a>    
+        </div>
+        
         <div class="span5">
             phD student<br/>
             Stony Brook University, NY<br/>
@@ -21,15 +28,7 @@ keywords: Seoyoung Ahn, Vision, Attention, Eye Tracking, Deep Learning
             
         </div>
 
-        <div class="span2">
-<!--         <a href="../assets/squirrel.png">
-            <img src="../assets/squirrel.png" align="center" width="400px" style="margin-bottom: 20px; margin-top: 20px"
-                  title="headshot" alt="headshot"/></a> -->    
-        <p align="right">
-                      <img src="../assets/squirrel.png" width="400px" style="margin-bottom: 20px; margin-top: 20px"
-                  title="headshot" alt="headshot"/>
-        </p>
-        </div>
+
     </div>
 </div>
 
