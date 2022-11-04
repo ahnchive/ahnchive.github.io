@@ -7,7 +7,7 @@ keywords: Seoyoung Ahn, Vision, Attention, Eye Tracking, Deep Learning
 
 
 <div class="container">
-<h4><a name="Seoyoung Ahn"></a>contact</h4>
+<h4><a name="profile"></a>Seoyoung Ahn</h4>
 
     <div class="row-fluid">
         <div class="span5">
