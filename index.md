@@ -49,7 +49,7 @@ Gave a talk at [MODVIS 2022](https://www.purdue.edu/conferences/events/modvis/in
 
 I will be giving a talk at [NAISys 2022](https://meetings.cshl.edu/abstracts.aspx?meet=NAISYS&year=22) about how top-down object reconstruction improves the model's recognition robustness. Very excited for the first in-person conferene in years after Covid break!
 
-My second-year project "Use of superordinate labels yields more robust and human-like visual representations in convolutional neural networks" has been accepted at [Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2778207)!
+My second-year project "Use of superordinate labels yields more robust and human-like visual representations in convolutional neural networks" has been accepted at [Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2778207)
 
 Gave a live talk at [VSS 2020](https://jov.arvojournals.org/article.aspx?articleid=2771677) on how hieararchical semantic structure of the training labels helps visual category learning in convolutional neural networks
 
