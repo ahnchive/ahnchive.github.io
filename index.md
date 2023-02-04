@@ -41,6 +41,9 @@ I'm a PhD student at [EyeCog lab](https://you.stonybrook.edu/zelinsky/who-we-are
 &nbsp;
 &nbsp;
 ### Recent News
+
+I was awarded a fellowship from the Stony Brook University Endowed Award Fund for Cognitive Science. This award will greatly help my phd disseration research!
+
 Our paper "Reconstruction-guided attention improves the robustness and shape processing of neural networks" has been accepted to [SVRHM Workshop](https://openreview.net/forum?id=tmvg0VIHTDr&noteId=u48ShDUHey) at Neurips 2022. I will be there in person to present my poster.
 
 Our IRL model now can predict human search behavior when the target is not there. Accepted at [ECCV 2022](https://arxiv.org/abs/2207.01166)
