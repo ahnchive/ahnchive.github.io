@@ -10,7 +10,7 @@ keywords: vision, attention, eye tracking, deep learning
     <div class="row-fluid">
         
         <div class="span2">
-          <img src="{{ BASE_PATH }}/pics/profile.JPG"
+          <img src="{{ BASE_PATH }}/pics/scholar_profile.jpeg"
                 title="Seoyoung Ahn" alt="Seoyoung Ahn"/>
         </div>
 
