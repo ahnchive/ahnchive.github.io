@@ -8,14 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : seoyoung ahn
+title : Ahn
 author :
-  name : seoyoung ahn
-  email : seoyoung.ahn@stonybrook.edu
+  name : Seoyoung Ahn
+  email : ahnseoyoung@gmail.com
   github : ahnchive
-  twitter : seoyahn
-
-production_url : http://ahnchive.github.io
+  twitter: seoyahn
+  
+production_url : https://ahnchive.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -25,7 +25,6 @@ markdown: kramdown
 #
 JB :
   version : 0.3.0
-
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
@@ -51,14 +50,14 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
-  # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
+  # ex: [BASE_PATH]/themes/[THEME-NAME]
   #
   # Override this by defining an absolute path to assets here.
   # ex:
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  # ASSET_PATH : http://kbroman.org/assets/themes/twitter
+  # ASSET_PATH : https://kbroman.org/themes/twitter
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
@@ -84,7 +83,7 @@ JB :
     provider : google
     google:
     tracking_id: 'UA-215411789-1'
-    
+
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
   # Set 'provider' to the sharing provider you want to use.

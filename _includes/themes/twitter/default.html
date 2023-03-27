@@ -18,41 +18,27 @@
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link href="{{ ASSET_PATH }}/css/my_custom_css.css" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ ASSET_PATH }}/css/style_custom.css" rel="stylesheet" type="text/css" media="all">
 
-    <!-- Le fav and touch icons - this is where you can add a little icon that will show up in the address bar next to the addrss adn in search history next to website name
-    <link rel="SHORTCUT ICON" href="{{ BASE_PATH }}/assets/me.ico"/>
-    -->
+    <!-- Le fav and touch icons -->
+    <link rel="SHORTCUT ICON" href="{{ BASE_PATH }}/pics/favicon/favicon-16x16.png"/>
+
     <!-- atom & rss feed -->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-    
-    <!-- Google Analytics -->
-    <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-215411789-1', 'auto');
-    ga('send', 'pageview');
-    </script>
-    <!-- End Google Analytics -->
-    
-    <!-- google scholar site -->
-    <link rel="author" href="https://scholar.google.com/citations?user=FxF4Y1UAAAAJ&hl=en"/>
-    
   </head>
 
   <body>
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">home</a>
+          <!-- <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a> -->
+          <a class="brand" href="{{ HOME_PATH }}">SEOYOUNG AHN</a>
           <ul class="nav">
-              <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/project.html">project</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/tutorial.html">tutorial</a></li>      
+              <li><a href="{{ HOME_PATH }}">home</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/research.html">research</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/dataset.html">dataset</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/tutorials.html">tutorials</a></li>
           </ul>
         </div>
       </div>
