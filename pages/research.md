@@ -59,7 +59,7 @@ for the most up-to-date and comprehensive list of publications, please visit my 
 <br/>
 
 #### <a name="generative"></a> Generated Object Reconstructions for Object-based Attention
-<div class="container" style="margin-top:20px;">
+<div class="container" style="margin-top:20px; margin-bottom: 10px">
     <div class="row-fluid">
         <div class="span7">
         <img style="float: left; margin: 0px 15px 15px 15px;" src="{{ BASE_PATH }}/pics/pareidolia.jpeg" width="100" />
@@ -78,7 +78,7 @@ for the most up-to-date and comprehensive list of publications, please visit my 
 <br/>
 
 #### <a name="decoding"></a> Decoding Cognitive States from Eye-Movements
-<div class="container" style="margin-top:20px;">
+<div class="container" style="margin-top:20px; margin-bottom: 10px">
     <div class="row-fluid">
         <div class="span7">
         <img style="float: left; margin: 5px 15px 15px 15px;" src="{{ BASE_PATH }}/pics/yarbus.png" width="120" />
@@ -97,16 +97,15 @@ for the most up-to-date and comprehensive list of publications, please visit my 
 <br/>
 
 #### <a name="gaze"></a> Gaze Modeling and Prediction
-<div class="container" style="margin-top:20px;">
+<div class="container" style="margin-top:20px; margin-bottom: 10px;">
     <div class="row-fluid">
         <div class="span7">
-        <img style="float: left; margin: 5px 15px 15px 15px;" src="{{ BASE_PATH }}/pics/gaze.png" width="200" />
+        <img style="float: left; margin: 15px 15px 15px 15px;" src="{{ BASE_PATH }}/pics/gaze.png" width="160" />
         This project aims to develop computational models that can predict human gaze trajectory during visual tasks, including free-viewing and visual search, by incorporating biologically plausible algorithms (e.g., reinforcement learning) and encoding constraints (e.g., foveated representation). The ultimate goal is to use this understanding of how humans allocate their spatial attention to develop next-generation systems that can intelligently anticipate a user's needs or desires.
         </div>
     </div>
 </div>
 
-<div style="height: 5px;"></div>
 
 <u>Selected Publications</u>:
 - Mondal S, Yang Z, Ahn S, Samaras D, Zelinsky G, Hoai M. Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention. CVPR. 2023
