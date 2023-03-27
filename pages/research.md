@@ -68,6 +68,8 @@ for the most up-to-date and comprehensive list of publications, please visit my 
     </div>
 </div>
 
+<div style="height: 5px;"></div>
+
 <u>Selected Publications</u>:
 - Ahn S, Adeli H, Zelinsky G. Reconstruction-guided attention improves the robustness and shape processing of neural networks. SVRHM at Neurips Workshops. 2022 [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://openreview.net/pdf?id=tmvg0VIHTDr){:target="_blank"}
 - Adeli H, Ahn S, Zelinsky G. A brain-inspired object-based attention network for multi-object recognition and visual reasoning. bioRxiv. [under review] [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2022.04.02.486850v2.full.pdf){:target="_blank"}
@@ -85,6 +87,8 @@ for the most up-to-date and comprehensive list of publications, please visit my 
     </div>
 </div>
 
+<div style="height: 5px;"></div>
+
 <u>Selected Publications</u>:
 - Ahn S, Kelton C, Balasubramanian A, Zelinsky G. Towards predicting reading comprehension from gaze behavior. ETRA. 2020 [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://dl.acm.org/doi/pdf/10.1145/3379156.3391335){:target="_blank"}
 - Kelton C, Wei Z, Ahn S, Balasubramanian A, Das SR, Samaras D, Zelinsky G. Reading detection in realtime. ETRA. 2019 [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://dl.acm.org/doi/pdf/10.1145/3314111.3319916){:target="_blank"}
@@ -101,6 +105,8 @@ for the most up-to-date and comprehensive list of publications, please visit my 
         </div>
     </div>
 </div>
+
+<div style="height: 5px;"></div>
 
 <u>Selected Publications</u>:
 - Mondal S, Yang Z, Ahn S, Samaras D, Zelinsky G, Hoai M. Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention. CVPR. 2023
