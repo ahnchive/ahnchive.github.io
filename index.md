@@ -40,6 +40,7 @@ keywords: vision, attention, eye tracking, deep learning
 I’m broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I try to understand this question by building an artificial vision system that is more human-like!<br/><br/> -->
 
 <!-- <h5><a name="Recent News"></a>RECENT NEWS</h5>
+
 I was awarded a fellowship from the Stony Brook University Endowed Award Fund for Cognitive Science. This award will greatly help my phd disseration research!<br/>
 
 Our paper "Reconstruction-guided attention improves the robustness and shape processing of neural networks" has been accepted to <a href="https://openreview.net/forum?id=tmvg0VIHTDr&noteId=u48ShDUHey">SVRHM workshop</a> at Neurips 2022. I will be there in person to present my poster.<br/>
@@ -73,6 +74,10 @@ I'm a Cognitive Science PhD student in Dr. [Greg Zelinsky](https://you.stonybroo
 <br/>
 
 ##### RECENT NEWS
+
+We presented several [talks](https://www.visionsciences.org/presentation/?id=5129) and [posters](https://www.visionsciences.org/presentation/?id=5978) at this year's VSS 2023 on modeling human object-based attention. 
+
+I received a travel award from Females of Vision et al. ([Fovea](http://www.foveavision.org/))
 
 I was awarded awarded the Endowed Award Fund for Cognitive Science and Distinguished Travel Award!
 

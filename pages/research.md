@@ -72,7 +72,7 @@ for the most up-to-date and comprehensive list of publications, please visit my 
 
 <u>Selected Publications</u>:
 - Ahn S, Adeli H, Zelinsky G. Reconstruction-guided attention improves the robustness and shape processing of neural networks. SVRHM at Neurips Workshops. 2022 [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://openreview.net/pdf?id=tmvg0VIHTDr){:target="_blank"}
-- Adeli H, Ahn S, Zelinsky G. A brain-inspired object-based attention network for multi-object recognition and visual reasoning. bioRxiv. [under review] [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2022.04.02.486850v2.full.pdf){:target="_blank"}
+- Adeli, H., Ahn, S., & Zelinsky, G. J. (2023). A brain-inspired object-based attention network for multiobject recognition and visual reasoning. Journal of Vision, 23(5), 16-16. [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://jov.arvojournals.org/article.aspx?articleid=2785636){:target="_blank"}
 
 
 <br/>
@@ -108,7 +108,7 @@ for the most up-to-date and comprehensive list of publications, please visit my 
 
 
 <u>Selected Publications</u>:
-- Mondal S, Yang Z, Ahn S, Samaras D, Zelinsky G, Hoai M. Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention. CVPR. 2023
+- Mondal S, Yang Z, Ahn S, Samaras D, Zelinsky G, Hoai M. Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention. CVPR. 2023 [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2023/papers/Mondal_Gazeformer_Scalable_Effective_and_Fast_Prediction_of_Goal-Directed_Human_Attention_CVPR_2023_paper.pdf){:target="_blank"}
 - Yang Z, Huang L, Chen Y, Wei Z, Ahn S, Zelinsky G, Samaras D, Hoai M. Predicting goal-directed human attention using inverse reinforcement learning. CVPR. 2020 [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Predicting_Goal-Directed_Human_Attention_Using_Inverse_Reinforcement_Learning_CVPR_2020_paper.pdf){:target="_blank"}
 - Zelinsky G, Yang Z, Huang L, Chen Y, Ahn S, Wei Z, Adeli H, Samaras D, Hoai M. Benchmarking gaze prediction for categorical visual search. CVPR Workshops. 2019 [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://openaccess.thecvf.com/content_CVPRW_2019/papers/MBCCV/Zelinsky_Benchmarking_Gaze_Prediction_for_Categorical_Visual_Search_CVPRW_2019_paper.pdf){:target="_blank"}
 
