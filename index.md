@@ -75,6 +75,8 @@ I'm a Cognitive Science PhD student in Dr. [Greg Zelinsky](https://you.stonybroo
 
 ##### RECENT NEWS
 
+I am honored to receive the 2023 APA Disseration Research Award!
+
 We presented several [talks](https://www.visionsciences.org/presentation/?id=5129) and [posters](https://www.visionsciences.org/presentation/?id=5978) at this year's VSS 2023 on modeling human object-based attention. 
 
 I received a travel award from Females of Vision et al. ([Fovea](http://www.foveavision.org/))
