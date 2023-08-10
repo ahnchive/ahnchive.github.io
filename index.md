@@ -68,7 +68,7 @@ Our <a href="https://www3.cs.stonybrook.edu/~arunab/gaze/index.html">WebGaze</a>
 ---
 
 ##### ABOUT
-I'm a Cognitive Science PhD student in Dr. [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/who-we-are/){:target="_blank"}'s lab at Stony Brook University.  I also frequently collaborate with the CV lab with Dr. [Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/){:target="_blank"} and Dr. [Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/){:target="_blank"}. I completed my MA and BA at Seoul National University, where I studied the computational modeling of eye-movements with Dr. Sungryong Koh. I’m broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I’m currently exploring the use of generative models to explain human object-based attention. Check out my [project]({{ BASE_PATH }}/pages/research.html) page for more info!
+I'm a Cognitive Science PhD student in Dr. [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/who-we-are/){:target="_blank"}'s lab at Stony Brook University.  I also frequently collaborate with the CV lab with Dr. [Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/){:target="_blank"} and Dr. [Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/){:target="_blank"}. I completed my MA and BA at Seoul National University, where I studied the computational modeling of eye-movements with Dr. Sungryong Koh. I’m broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I’m currently exploring the use of generative models to explain human object-based attention. In my free time, I write for [animated film](https://jinukchoi.com/hairuniverse)!
 
 
 <br/>
@@ -81,7 +81,7 @@ We presented several [talks](https://www.visionsciences.org/presentation/?id=512
 
 I received a travel award from Females of Vision et al. ([Fovea](http://www.foveavision.org/))
 
-I was awarded awarded the Endowed Award Fund for Cognitive Science and Distinguished Travel Award!
+I was awarded the Endowed Award Fund for Cognitive Science from Stony Brook Psychology!
 
 Our paper "Reconstruction-guided attention improves the robustness and shape processing of neural networks" has been accepted to [SVRHM Workshop](https://openreview.net/forum?id=tmvg0VIHTDr&noteId=u48ShDUHey){:target="_blank"} at Neurips 2022. I will be there in person to present my poster.
 
