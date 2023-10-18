@@ -19,7 +19,7 @@ keywords: vision, attention, eye tracking, deep learning
 
           final-year PhD student @<a href="https://you.stonybrook.edu/zelinsky/who-we-are/" target="_blank">eyecog lab</a><br/>
           Stony Brook University, New York, USA <br/><br/>
-          CV: <a href="{{ BASE_PATH }}/ahn_cv.pdf"  target="_blank"><img src="pics/icons16/pdf-icon.png" alt="CV as pdf"></a> (updated March 2023)
+          CV: <a href="{{ BASE_PATH }}/ahn_cv.pdf"  target="_blank"><img src="pics/icons16/pdf-icon.png" alt="CV as pdf"></a> (updated October 2023)
 
           <div id="hide_email">
           email: <code>ahn</code><b>I</b><code>seoyoung</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
