@@ -17,8 +17,11 @@ keywords: vision, attention, eye tracking, deep learning
         <div class="span5">
           <h4><a name="Seo-Young Ahn"></a>Seo-Young Ahn</h4>
 
-          final-year PhD student @<a href="https://you.stonybrook.edu/zelinsky/who-we-are/" target="_blank">eyecog lab</a><br/>
-          Stony Brook University, New York, USA <br/><br/>
+<!--           final-year PhD student @<a href="https://you.stonybrook.edu/zelinsky/who-we-are/" target="_blank">eyecog lab</a><br/>
+          Stony Brook University, New York, USA <br/><br/> -->
+          postdoc @<a href="https://tsaolab.berkeley.edu/" target="_blank">Tsao lab</a><br/>
+          UC Berkeley, California, USA <br/><br/>
+
           CV: <a href="{{ BASE_PATH }}/ahn_cv.pdf"  target="_blank"><img src="pics/icons16/pdf-icon.png" alt="CV as pdf"></a> (updated May 2024)
 
           <div id="hide_email">
