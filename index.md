@@ -19,7 +19,7 @@ keywords: vision, attention, eye tracking, deep learning
 
           final-year PhD student @<a href="https://you.stonybrook.edu/zelinsky/who-we-are/" target="_blank">eyecog lab</a><br/>
           Stony Brook University, New York, USA <br/><br/>
-          CV: <a href="{{ BASE_PATH }}/ahn_cv.pdf"  target="_blank"><img src="pics/icons16/pdf-icon.png" alt="CV as pdf"></a> (updated October 2023)
+          CV: <a href="{{ BASE_PATH }}/ahn_cv.pdf"  target="_blank"><img src="pics/icons16/pdf-icon.png" alt="CV as pdf"></a> (updated May 2024)
 
           <div id="hide_email">
           email: <code>ahn</code><b>I</b><code>seoyoung</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
@@ -68,12 +68,18 @@ Our <a href="https://www3.cs.stonybrook.edu/~arunab/gaze/index.html">WebGaze</a>
 ---
 
 ##### ABOUT
-I'm a Cognitive Science PhD student in Dr. [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/who-we-are/){:target="_blank"}'s lab at Stony Brook University.  I also frequently collaborate with the CV lab with Dr. [Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/){:target="_blank"} and Dr. [Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/){:target="_blank"}. I completed my MA and BA at Seoul National University, where I studied the computational modeling of eye-movements with Dr. Sungryong Koh. I’m broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I’m currently exploring the use of generative models to explain human object-based attention. In my free time, I write for [animated film](https://jinukchoi.com/hairuniverse)!
+I'm a postdoc working at [Doris Tsao](https://tsaolab.berkeley.edu/){:target="_blank"}'s lab at UC Berkeley. I did my PhD with Dr.[Greg Zelinsky](https://you.stonybrook.edu/zelinsky/who-we-are/){:target="_blank"} at Stony Brook University. I also frequently collaborate with the Computer Vision lab with Dr. [Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/){:target="_blank"} and Dr. [Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/){:target="_blank"}. Before that, I did my MA and BA at Seoul National University, and studied the computational omdeling of eye-movements with Dr. Sungryong Koh. I’m broadly interested in understanding how humans can obtain stable but flexible representations of their visual environment. I’m currently exploring the use of generative models to explain human object-based perception and attention, and understanding how the brain accomplishes this. In my free time, I write for [animated film](https://jinukchoi.com/hairuniverse)!
 
 
 <br/>
 
 ##### RECENT NEWS
+
+I'm co-organizing the ['Using Deep Networks to Re-imagine Object-based Attention and Perception'](https://www.visionsciences.org/symposia/?sym=21){:target="_blank"} symposium at VSS 2024. We will discuss topics ranging from classic object-based attention theories and recent neural and behavioral data to new deep learning models for better understanding how the visual system forms meaningful, coherent object percepts.
+
+I'm moving to UC Berkeley to start a new postdoc position at Doris Tsao's lab in 2024. I'm excited to begin a new journey studying monkey brain!
+
+The 3D [animated film](https://jinukchoi.com/hairuniverse) I participated as a writer won the Jury's Special Award at SIGGRAPH Asia 2023! Huge congratulations to our amazing director, Jinuk! 
 
 I am honored to receive the 2023 APA Disseration Research Award!
 
