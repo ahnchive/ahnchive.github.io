@@ -11,7 +11,8 @@ description: Seoyoung Ahn's research and selected publications
   </figure>
 </div>
 
-Our visual system is constantly receiving a large amount of information from the environment, and attention plays a critical role in selectively focusing on the most relevant aspects of our visual environment. My research is centered on exploring the role of attention in visual processing and how it shapes our perception of the world. I use computational models and behavioral experiments to investigate the mechanisms underlying attention and how they facilitate object recognition, grouping, and search in humans. By developing an artificial vision system that can mimic and predict human attentional processes more accurately, I aim to improve the safety and sophistication of human-machine interaction in visual environments. This will enable more intuitive and effective collaboration between humans and machines in various applications. Currently, I'm exploring the use of generative models to explain human object-based attention. 
+Our visual system is constantly bombarded with a large amount of information from the environment, and how we intelligently select and accumulate these information to maintain a stable world representation is not understood. I aim to address this question using neuroscientific and psychophysical methods. I'm particularly interested in using deep learning models to identify the computational mechanisms (e.g., attention) required for producing intelligent visual behaviors (e.g., eye movements). I believe that understanding and developing a vision system that can mimic and predict human intelligent visual behaviors will benefit both science and applications, enhancing the interactivity and interpretability between human and computer vision. Currently, I'm exploring the use of generative models to explain human object-based perception and attention
+
 
 **Keywords:** Vision, Attention, Eye-movements, Gaze Prediction, Computational Modeling
 
@@ -71,6 +72,7 @@ for the most up-to-date and comprehensive list of publications, please visit my 
 <div style="height: 5px;"></div>
 
 <u>Selected Publications</u>:
+- Ahn S, Adeli H, & ZelinskyG. (in press). The attentive reconstruction of objects facilitates robust object recognition. PLOS Computational Biology
 - Ahn S, Adeli H, Zelinsky G. Reconstruction-guided attention improves the robustness and shape processing of neural networks. SVRHM at Neurips Workshops. 2022 [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://openreview.net/pdf?id=tmvg0VIHTDr){:target="_blank"}
 - Adeli, H., Ahn, S., & Zelinsky, G. J. (2023). A brain-inspired object-based attention network for multiobject recognition and visual reasoning. Journal of Vision, 23(5), 16-16. [![pdf]({{ BASE_PATH }}/pics/icons16/pdf-icon.png)](https://jov.arvojournals.org/article.aspx?articleid=2785636){:target="_blank"}
 
