@@ -10,7 +10,7 @@ keywords: vision, attention, eye tracking, deep learning
     <div class="row-fluid">
         
         <div class="span2">
-          <img src="{{ BASE_PATH }}/pics/vss_profile.jpeg"
+          <img src="{{ BASE_PATH }}/pics/ahn_profile.JPG"
                 title="Seoyoung Ahn" alt="Seoyoung Ahn"/>
         </div>
 
@@ -82,9 +82,9 @@ I'm co-organizing the ['Using Deep Networks to Re-imagine Object-based Attention
 
 I'm moving to UC Berkeley to start a new postdoc position at Doris Tsao's lab in 2024. I'm excited to begin a new journey studying monkey brain!
 
-The 3D [animated film](https://jinukchoi.com/hairuniverse) I participated as a writer won the Jury's Special Award at SIGGRAPH Asia 2023! Huge congratulations to our amazing director, Jinuk! 
+The 3D animated film I participated as a writer won the [Jury's Special Award at SIGGRAPH Asia 2023](https://jinukchoi.com/hairuniverse)! Huge congratulations to our amazing director, Jinuk! 
 
-I am honored to receive the 2023 APA Disseration Research Award!
+I am honored to receive the [2023 APA Disseration Research Award](https://www.apa.org/science/awards/2023-dissertation-award)!
 
 We presented several [talks](https://www.visionsciences.org/presentation/?id=5129) and [posters](https://www.visionsciences.org/presentation/?id=5978) at this year's VSS 2023 on modeling human object-based attention. 
 
