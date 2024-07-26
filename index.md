@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Seo-Young Ahn's Homepage
-description: 
+title: Seoyoung Ahn's Homepage
+description: Academic Website for Seoyoung Ahn
 keywords: vision, attention, eye tracking, computational modeling
 ---
 
@@ -15,7 +15,7 @@ keywords: vision, attention, eye tracking, computational modeling
         </div>
 
         <div class="span5">
-          <h4><a name="Seo-Young Ahn"></a>Seo-Young Ahn</h4>
+          <h4><a name="Seoyoung Ahn"></a>Seoyoung Ahn/h4>
 
 <!--           final-year PhD student @<a href="https://you.stonybrook.edu/zelinsky/who-we-are/" target="_blank">eyecog lab</a><br/>
           Stony Brook University, New York, USA <br/><br/> -->
