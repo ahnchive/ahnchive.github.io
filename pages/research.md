@@ -14,7 +14,7 @@ description: Seoyoung Ahn's research and selected publications
 Our visual system is constantly bombarded with a large amount of information from the environment, and how we intelligently select and accumulate these information to maintain a stable world representation is not understood. I aim to address this question using neuroscientific and psychophysical methods. I'm particularly interested in using deep learning models to identify the computational mechanisms (e.g., attention) required for producing intelligent visual behaviors (e.g., eye movements). I believe that understanding and developing a vision system that can mimic and predict human intelligent visual behaviors will benefit both science and applications, enhancing the interactivity and interpretability between human and computer vision. Currently, I'm exploring the use of generative models to explain human object-based perception and attention
 
 
-**Keywords:** Vision, Attention, Eye-movements, Gaze Prediction, Computational Modeling
+**Keywords:** Vision, Attention, Eye-movements, Computational Modeling
 
 <!-- <a href="#book"> Generative Vision </a>, <a href="#book"> Object-based Attention</a>, <a href="#book">Goal-directed Attention</a>, <a href="#book">Gaze Prediction</a>, <a href="#book">Decoding Eye-Movements</a>, <a href="#book">Reading</a>
  -->
@@ -55,7 +55,7 @@ Our visual system is constantly bombarded with a large amount of information fro
 
 ---
 ##### Highlighted Projects and Publications:
-for the most up-to-date and comprehensive list of publications, please visit my <a href="https://scholar.google.com/citations?user=FxF4Y1UAAAAJ&hl=en" target="_blank">google scholar</a>
+for the most up-to-date and comprehensive list of publications, please visit my <a href="https://scholar.google.com/citations?hl=en&user=8YsQh3oAAAAJ" target="_blank">google scholar</a>
 
 <br/>
 
