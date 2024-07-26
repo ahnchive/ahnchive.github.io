@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Seo-Young Ahn's Homepage
-description: Academic Website for Seoyoung (Young) Ahn
-keywords: vision, attention, eye tracking, deep learning
+description: 
+keywords: vision, attention, eye tracking, computational modeling
 ---
 
 
@@ -29,7 +29,7 @@ keywords: vision, attention, eye tracking, deep learning
           </b><code></code><b>So</b><code></code><b>please</b><code>gma</code><b>leave
           </b><code>il</code><b>me</b><code>.</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
             </div>
-          social: <a href="https://twitter.com/seoyahn" target="_blank">twitter</a>, <a href="https://scholar.google.com/citations?user=FxF4Y1UAAAAJ&hl=en" target="_blank">google scholar</a><br/><br/>
+          social: <a href="https://twitter.com/seoyahn" target="_blank">twitter</a>, <a href="https://scholar.google.com/citations?hl=en&user=8YsQh3oAAAAJ" target="_blank">google scholar</a><br/><br/>
 
         
         </div>
